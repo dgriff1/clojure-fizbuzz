@@ -1,16 +1,17 @@
 # clojure-fizbuzz
 
-FIXME: description
 
-## Installation
-
-Download from http://example.com/FIXME.
+A totally useless web app that lets you add numbers to a list and see if they are there.
+Also tells you if the number is even.
 
 ## Usage
 
-FIXME: explanation
+To run it:
+    foreman start
 
-    $ java -jar clojure-fizbuzz-0.1.0-standalone.jar [args]
+To run the client
+    gem install rest-client
+    ruby client.rb
 
 ## Options
 
